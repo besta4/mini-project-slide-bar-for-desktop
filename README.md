@@ -27,7 +27,7 @@ To use the sidebar menu:
 
 ## Credits
 - **Author**: Besta Dinesh
-- **Contact**: [LinkedIn](https://www.linkedin.com/in/besta-dinesh-736599263), [Facebook](https://www.facebook.com/basta.dinesh), [Instagram](https://www.instagram.com/dinnu_20_04), [YouTube](https://youtube.com/@pokegame-123unite)
+- **Contact**: [LinkedIn](https://www.linkedin.com/in/besta-dinesh-736599263),[Instagram](https://www.instagram.com/dinnu_20_04)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
