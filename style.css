@@ -10,7 +10,7 @@
   .main_box p{
     position: absolute;
     left: 29px;
-    top: 685px;
+    top: 675px;
     color: white;
     display: inline;
     padding: 10px;
@@ -79,7 +79,7 @@
     opacity: 0.5;
     position: absolute;
     left: 25%;
-    top: 660px;
+    top: 650px;
 }
 .sidebar_menu .social_media i {
   color:white;
